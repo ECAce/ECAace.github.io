@@ -1,3 +1,5 @@
 # MIT-ADSP
 
-Projects for MIT Applied Data Science Program
+2021 MIT Applied Data Science Program
+
+Projects using Python and Jupyter Notebooks
